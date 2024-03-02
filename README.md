@@ -6,17 +6,25 @@
 
 
 
-The Flutter Client App for Hotel Order Management is a comprehensive solution designed to streamline the hotel management process, focusing on order handling, user interaction, and real-time updates. Built on Flutter, this application offers a user-friendly interface that caters to both the hotel staff and its guests, ensuring efficient and effective hotel operations.
+Smart Waiter,the Flutter client app for Hotel Order Management, a comprehensive solution designed to streamline hotel management processes. Built with Flutter, it offers a user-friendly interface for both hotel staff and guests, ensuring efficient and effective hotel operations.
 
-### Key Features:
+## Key Features
 
-* **Order Management** : Easily add, modify, and manage orders directly from the app. This feature allows for real-time updates, ensuring that the hotel staff can quickly respond to guest requests and preferences.
-* **Dashboard Integration** : Orders are linked to a central dashboard, providing hotel staff with an overview of all pending orders, their statuses, and any necessary actions required.
-* **Real-Time Updates** : The app ensures that all changes made to orders are instantly reflected across the system, facilitating quick decision-making and improved service delivery.
-* **Order Status Change** : Hotel staff can easily update the status of orders (e.g., from pending to preparing, preparing to served), providing guests with real-time updates on their order status.
-* **Menu Categories and Items** : The app includes detailed menu information, allowing guests to browse and select from a wide range of food and beverage options available at the hotel.
-* **User Authentication** : Secure login and logout functionalities are integrated, ensuring that only authorized users can access the system.
-* **User Profile Management** : Users can manage their profiles, including personal information, order history, and preferences, enhancing the overall user experience.
+- **Order Management**: Manage orders directly from the app, with real-time updates for quick response to guest requests.
+- **Dashboard Integration**: A central dashboard provides an overview of all pending orders and their statuses.
+- **Real-Time Updates**: All changes to orders are instantly reflected across the system, facilitating quick decision-making.
+- **Order Status Change**: Update order statuses (e.g., from pending to preparing, preparing to served) and provide guests with real-time updates.
+- **Menu Categories and Items**: Detailed menu information for guests to browse and select from a wide range of food and beverage options.
+- **User Authentication**: Secure login and logout functionalities to ensure only authorized users can access the system.
+- **User Profile Management**: Users can manage their profiles, including personal information, order history, and preferences.
+
+## Technical Details
+
+- **Backend**: Supabase for backend services, providing scalable and secure infrastructure.
+- **Database**: PostgreSQL for data storage, ensuring reliability and performance.
+- **Frontend**: Flutter for the app development, leveraging Dart for a robust and efficient application.
+
+This project showcases my capabilities in Flutter development, backend integration with Supabase and PostgreSQL, and my proficiency in creating user-friendly and efficient applications.
 
 ### Demo Video
 
