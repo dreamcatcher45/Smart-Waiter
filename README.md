@@ -13,3 +13,11 @@ The Flutter Client App for Hotel Order Management is a comprehensive solution de
 * **User Profile Management** : Users can manage their profiles, including personal information, order history, and preferences, enhancing the overall user experience.
 
 ### Demo Video
+
+
+https://github.com/dreamcatcher45/Smart-Waiter/assets/105426078/9f2b295a-e06f-4a62-bce4-4d2a7b3dfcc7
+
+
+
+https://github.com/dreamcatcher45/Smart-Waiter/assets/105426078/ff7a9f66-fe44-4546-aabd-13edcf821ae7
+
