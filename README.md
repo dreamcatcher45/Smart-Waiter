@@ -8,9 +8,9 @@
 Smart Waiter,the Flutter client app for Hotel Order Management, a comprehensive solution designed to streamline hotel management processes. Built with Flutter, it offers a user-friendly interface for both hotel staff and guests, ensuring efficient and effective hotel operations.
 
 <p align="center">
- <img src="images/img1.png" width="30%" alt="Image 1"/>
- <img src="images/img2.png" width="30%" alt="Image 2"/>
- <img src="images/img3.png" width="30%" alt="Image 3"/>
+ <img src="Images/img1.png" width="30%" alt="Image 1"/>
+ <img src="Images/img2.png" width="30%" alt="Image 2"/>
+ <img src="Images/img3.png" width="30%" alt="Image 3"/>
 </p>
 
 ## Key Features
